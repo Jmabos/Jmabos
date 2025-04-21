@@ -30,11 +30,8 @@ Whether I'm mapping processes, building dashboards, or leading digital transform
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olajumoke-maborukoje-msc-mba-072626110)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Jumokemabos@gmail.com)
 
+“Data tells the story. I help it speak clearly.”
+
 ---
 
 ## 💼 Project Portfolio👇
-
----
-
-Thanks for visiting! 👩🏽‍💻  
-“Data tells the story. I help it speak clearly.”
