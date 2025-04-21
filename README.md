@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Olajumoke Maborukoje
 
 🎯 **Business Analyst | Business Intelligence Analyst**  
-📊 Passionate about transforming data into decisions and driving process improvements through insightful analysis and intuitive solutions.
+📊 Passionate about driving process improvements and transforming data into decisions through insightful analysis and intuitive solutions.
 
 ---
 
