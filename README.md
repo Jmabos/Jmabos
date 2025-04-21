@@ -87,6 +87,13 @@ Let’s collaborate or talk data, BI, and digital transformation:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)  
 - 💼 [Portfolio Site](https://yourportfolio.com)  
 - 📧 Email: your.email@example.com
+---
+
+## 🌍 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/Jmabos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olajumoke-maborukoje-msc-mba-072626110)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Jumokemabos@gmail.com)
 
 ---
 
